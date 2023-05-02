@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.45.23393.0%0D%0A%0D%0A00:00:00.056%20--%3E%2000:00:05.816%0D%0AThis%20is%20the%20SGM-0001%20Sales%20\u0026amp;%20Profit%20Analysis%20Report.%0D%0A%0D%0A"}')

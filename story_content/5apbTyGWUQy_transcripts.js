@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":544,"text":"In this final video walkthrough, we will demonstrate how to use a visual, "},{"start":4981,"text":"in this case a heat map, to organize and display the data set."},{"start":10264,"text":"To create more room for your display, remove one or more of the panels from the View."},{"start":19800,"text":"Select the Page 1 tab and right-click to rename it to Sales."},{"start":26812,"text":"The Duplicate Page feature will duplicate the entire content of a page."},{"start":33448,"text":"To save your Dossier, select File, then Save As."},{"start":39176,"text":"The final step in the process is saving a Dossier to my reports or share reports. "},{"start":45384,"text":"Click next when you’re ready for the final demo. "}]}]};
+    window.globalLoadJsAsset('story_content/5apbTyGWUQy_transcripts.js', JSON.stringify(data));
+})();
